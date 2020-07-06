@@ -1,0 +1,146 @@
+Player 1: A4 - Miss
+Player 2: H7 - Miss
+Player 1: A1 - Miss
+Player 2: E1 - Miss
+Player 1: A3 - Miss
+Player 2: D3 - Miss
+Player 1: A5 - Miss
+Player 2: D1 - Miss
+Player 1: A7 - Miss
+Player 2: A3 - Miss
+Player 1: A9 - Miss
+Player 2: C7 - Miss
+Player 1: B0 - Miss
+Player 2: H3 - Miss
+Player 1: B2 - Miss
+Player 2: G3 - Hit
+Player 1: B4 - Miss
+Player 2: F8 - Miss
+Player 1: B5 - Miss
+Player 2: D6 - Miss
+Player 1: B6 - Miss
+Player 2: F6 - Miss
+Player 1: B8 - Miss
+Player 2: J0 - Miss
+Player 1: C1 - Miss
+Player 2: G1 - Hit
+Player 1: C3 - Miss
+Player 2: F4 - Miss
+Player 1: C5 - Miss
+Player 2: D9 - Miss
+Player 1: C7 - Miss
+Player 2: I9 - Hit
+Player 1: C9 - Miss
+Player 2: I1 - Miss
+Player 1: D0 - Miss
+Player 2: C1 - Miss
+Player 1: D2 - Miss
+Player 2: H2 - Miss
+Player 1: D4 - Miss
+Player 2: F0 - Miss
+Player 1: D6 - Miss
+Player 2: I7 - Hit
+Player 1: D8 - Hit
+Player 2: J4 - Miss
+Player 1: D7 - Hit
+Player 2: A6 - Miss
+Player 1: D9 - Hit
+Player 2's Submarine has been sunk
+Player 2: B6 - Miss
+Player 1: E1 - Miss
+Player 2: D4 - Miss
+Player 1: E3 - Miss
+Player 2: C9 - Miss
+Player 1: E5 - Miss
+Player 2: F1 - Miss
+Player 1: E7 - Miss
+Player 2: B0 - Miss
+Player 1: E9 - Miss
+Player 2: I3 - Miss
+Player 1: F0 - Miss
+Player 2: F9 - Miss
+Player 1: F2 - Miss
+Player 2: E0 - Miss
+Player 1: F4 - Miss
+Player 2: A7 - Miss
+Player 1: F6 - Miss
+Player 2: J1 - Miss
+Player 1: F8 - Hit
+Player 2: B3 - Miss
+Player 1: F7 - Hit
+Player 2's Destroyer has been sunk
+Player 2: F7 - Hit
+Player 1: F9 - Miss
+Player 2: G9 - Miss
+Player 1: G1 - Hit
+Player 2: F2 - Miss
+Player 1: G0 - Miss
+Player 2: B2 - Miss
+Player 1: G2 - Miss
+Player 2: J5 - Miss
+Player 1: F1 - Hit
+Player 2: J8 - Miss
+Player 1: H1 - Hit
+Player 2: J3 - Miss
+Player 1: I1 - Hit
+Player 2: D7 - Miss
+Player 1: J1 - Hit
+Player 2's Carrier has been sunk
+Player 2: E2 - Miss
+Player 1: G4 - Miss
+Player 2: G8 - Miss
+Player 1: G6 - Miss
+Player 2: J2 - Miss
+Player 1: G8 - Hit
+Player 2: I4 - Miss
+Player 1: G7 - Miss
+Player 2: F5 - Miss
+Player 1: G9 - Miss
+Player 2: H1 - Miss
+Player 1: H8 - Hit
+Player 2: H9 - Miss
+Player 1: I8 - Hit
+Player 2: E6 - Miss
+Player 1: E8 - Miss
+Player 2: J6 - Miss
+Player 1: J8 - Hit
+Player 2's Battleship has been sunk
+Player 2: C5 - Miss
+Player 1: H3 - Miss
+Player 2: H4 - Miss
+Player 1: H5 - Miss
+Player 2: H0 - Miss
+Player 1: H7 - Miss
+Player 2: I8 - Hit
+Player 1's Submarine has been sunk
+Player 1: I2 - Miss
+Player 2: G4 - Hit
+Player 1: I4 - Miss
+Player 2: E4 - Miss
+Player 1: I6 - Miss
+Player 2: E7 - Hit
+Player 1's Destroyer has been sunk
+Player 1: J3 - Hit
+Player 2: A4 - Miss
+Player 1: J2 - Miss
+Player 2: B5 - Miss
+Player 1: I3 - Miss
+Player 2: B7 - Miss
+Player 1: J4 - Hit
+Player 2: D5 - Miss
+Player 1: J5 - Hit
+Player 2's Cruiser has been sunk
+
+Player 1 Statistics:
+Total hits: 17
+Total misses: 46
+Total shots: 63
+Hit Percentage: 26.98%
+Game Result: Winner
+
+Player 2 Statistics:
+Total hits: 8
+Total misses: 54
+Total shots: 62
+Hit Percentage: 12.90%
+Game Result: Loser
